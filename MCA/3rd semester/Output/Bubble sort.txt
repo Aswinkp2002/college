@@ -1,7 +1,0 @@
-Enter the array limit3
-5
-8
-3
-[5, 8, 3]
-[3, 5, 8]
->>> 
